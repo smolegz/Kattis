@@ -1,6 +1,9 @@
-#Kattis
-## Questions solved = 208
+# Kattis ![alt text](https://open.kattis.com/images/site-logo "Kattis")
 
+Questions solved = 208
+
+## Table of Contents
+---
 | Name                                                                                                | Difficulty | Category |
 |-----------------------------------------------------------------------------------------------------|------------|----------|
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble)                                    | 1.3        | Easy     |
