@@ -2,8 +2,8 @@
 
 Questions solved = 208
 
-## Table of Contents
----
+Table of Contents
+___
 | Name                                                                                                | Difficulty | Category |
 |-----------------------------------------------------------------------------------------------------|------------|----------|
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble)                                    | 1.3        | Easy     |
