@@ -1,211 +1,211 @@
-# Kattis
-| name                                              | difficulty | category | link                                                       |
-|---------------------------------------------------|------------|----------|------------------------------------------------------------|
-| Adding Trouble                                    | 1.3        | Easy     | https://open.kattis.com/problems/addingtrouble             |
-| Add Two Numbers                                   | 1.3        | Easy     | https://open.kattis.com/problems/addtwonumbers             |
-| Á leið í bíó                                      | 1.2        | Easy     | https://open.kattis.com/problems/aleidibio                 |
-| Amerískur vinnustaður                             | 1.3        | Easy     | https://open.kattis.com/problems/ameriskur                 |
-| Annoyed Coworkers                                 | 3.1        | Medium   | https://open.kattis.com/problems/annoyedcoworkers          |
-| Apaxiaaaaaaaaaaaans!                              | 1.5        | Easy     | https://open.kattis.com/problems/apaxiaaans                |
-| ASCII kassi                                       | 1.5        | Easy     | https://open.kattis.com/problems/asciikassi                |
-| Autori                                            | 1.2        | Easy     | https://open.kattis.com/problems/autori                    |
-| Avion                                             | 1.5        | Easy     | https://open.kattis.com/problems/avion                     |
-| Backspace                                         | 2.4        | Easy     | https://open.kattis.com/problems/backspace                 |
-| Distributing Ballot Boxes                         | 3.9        | Medium   | https://open.kattis.com/problems/ballotboxes               |
-| Baloni                                            | 4          | Medium   | https://open.kattis.com/problems/baloni                    |
-| Basic Programming 2                               | 4.3        | Medium   | https://open.kattis.com/problems/basicprogramming2         |
-| Batter Up                                         | 1.4        | Easy     | https://open.kattis.com/problems/batterup                  |
-| Betting                                           | 1.3        | Easy     | https://open.kattis.com/problems/betting                   |
-| Bijele                                            | 1.4        | Easy     | https://open.kattis.com/problems/bijele                    |
-| Accounting                                        | 3.3        | Medium   | https://open.kattis.com/problems/bokforing                 |
-| Book Shelves                                      | 3.4        | Medium   | https://open.kattis.com/problems/bokhyllor                 |
-| Booking                                           | 5.6        | Hard     | https://open.kattis.com/problems/booking                   |
-| Bracket Sequence                                  | 5.2        | Medium   | https://open.kattis.com/problems/bracketsequence           |
-| Bridges                                           | 2.1        | Easy     | https://open.kattis.com/problems/bryr                      |
-| Build Dependencies                                | 3.4        | Medium   | https://open.kattis.com/problems/builddeps                 |
-| Button Bashing                                    | 3.5        | Medium   | https://open.kattis.com/problems/buttonbashing             |
-| Candy Division                                    | 3.9        | Medium   | https://open.kattis.com/problems/candydivision             |
-| Solving for Carrots                               | 1.4        | Easy     | https://open.kattis.com/problems/carrots                   |
-| A Feast For Cats                                  | 4          | Medium   | https://open.kattis.com/problems/cats                      |
-| Cetvrta                                           | 1.5        | Easy     | https://open.kattis.com/problems/cetvrta                   |
-| Chanukah Challenge                                | 1.4        | Easy     | https://open.kattis.com/problems/chanukah                  |
-| Class Field Trip                                  | 1.4        | Easy     | https://open.kattis.com/problems/classfieldtrip            |
-| A Classy Problem                                  | 5          | Medium   | https://open.kattis.com/problems/classy                    |
-| Closing the Loop                                  | 1.9        | Easy     | https://open.kattis.com/problems/closingtheloop            |
-| Coffee Cup Combo                                  | 1.7        | Easy     | https://open.kattis.com/problems/coffeecupcombo            |
-| Cold-puter Science                                | 1.3        | Easy     | https://open.kattis.com/problems/cold                      |
-| Best Compromise                                   | 2.1        | Easy     | https://open.kattis.com/problems/compromise                |
-| Cryptographer's Conundrum                         | 1.5        | Easy     | https://open.kattis.com/problems/conundrum                 |
-| Cornhusker                                        | 1.5        | Easy     | https://open.kattis.com/problems/cornhusker                |
-| Cosmic Path Optimization                          | 1.5        | Easy     | https://open.kattis.com/problems/cosmicpathoptimization    |
-| Count the Vowels                                  | 1.4        | Easy     | https://open.kattis.com/problems/countthevowels            |
-| Course Scheduling                                 | 1.8        | Easy     | https://open.kattis.com/problems/coursescheduling          |
-| CPR Number                                        | 1.4        | Easy     | https://open.kattis.com/problems/cprnummer                 |
-| Stacking Cups                                     | 1.6        | Easy     | https://open.kattis.com/problems/cups                      |
-| Curveknights                                      | 3.2        | Medium   | https://open.kattis.com/problems/curveknights              |
-| Cut in Line                                       | 1.6        | Easy     | https://open.kattis.com/problems/cutinline                 |
-| Cut the Negativity                                | 1.4        | Easy     | https://open.kattis.com/problems/cutthenegativity          |
-| Delimiter Soup                                    | 2.1        | Easy     | https://open.kattis.com/problems/delimitersoup             |
-| Detailed Differences                              | 1.4        | Easy     | https://open.kattis.com/problems/detaileddifferences       |
-| Digit Swap                                        | 1.3        | Easy     | https://open.kattis.com/problems/digitswap                 |
-| Dirty Driving                                     | 3.8        | Medium   | https://open.kattis.com/problems/dirtydriving              |
-| Divide by 100...                                  | 4.3        | Medium   | https://open.kattis.com/problems/divideby100               |
-| Disastrous Downtime                               | 3.1        | Medium   | https://open.kattis.com/problems/downtime                  |
-| DRM Messages                                      | 1.5        | Easy     | https://open.kattis.com/problems/drmmessages               |
-| Echo Echo Echo                                    | 1.3        | Easy     | https://open.kattis.com/problems/echoechoecho              |
-| Ekki dauði opna inni                              | 1.5        | Easy     | https://open.kattis.com/problems/ekkidaudi                 |
-| Election Paradox                                  | 1.8        | Easy     | https://open.kattis.com/problems/electionparadox           |
-| Erase Securely                                    | 1.8        | Easy     | https://open.kattis.com/problems/erase                     |
-| Even Up Solitaire                                 | 2.7        | Easy     | https://open.kattis.com/problems/evenup                    |
-| I've Been Everywhere, Man                         | 1.4        | Easy     | https://open.kattis.com/problems/everywhere                |
-| Eye of Sauron                                     | 1.5        | Easy     | https://open.kattis.com/problems/eyeofsauron               |
-| Fading Wind                                       | 1.5        | Easy     | https://open.kattis.com/problems/fadingwind                |
-| Faktor                                            | 1.4        | Easy     | https://open.kattis.com/problems/faktor                    |
-| Falcon Dive                                       | 3.1        | Medium   | https://open.kattis.com/problems/falcondive                |
-| Fend Off Titan                                    | 2.5        | Easy     | https://open.kattis.com/problems/fendofftitan              |
-| Framtíðar FIFA                                    | 1.2        | Easy     | https://open.kattis.com/problems/fifa                      |
-| Fifty Shades of Pink                              | 1.5        | Easy     | https://open.kattis.com/problems/fiftyshades               |
-| Filip                                             | 1.4        | Easy     | https://open.kattis.com/problems/filip                     |
-| Finding An A                                      | 1.3        | Easy     | https://open.kattis.com/problems/findingana                |
-| FizzBuzz                                          | 1.5        | Easy     | https://open.kattis.com/problems/fizzbuzz                  |
-| Flatbökuveisla                                    | 1.2        | Easy     | https://open.kattis.com/problems/flatbokuveisla            |
-| Flipping Patties                                  | 2.5        | Easy     | https://open.kattis.com/problems/flippingpatties           |
-| Flow Shop                                         | 2.3        | Easy     | https://open.kattis.com/problems/flowshop                  |
-| Fluortanten                                       | 3.1        | Medium   | https://open.kattis.com/problems/fluortanten               |
-| Flýtibaka                                         | 1.4        | Easy     | https://open.kattis.com/problems/flytibaka                 |
-| Birthday Memorization                             | 1.6        | Easy     | https://open.kattis.com/problems/fodelsedagsmemorisering   |
-| Forced Choice                                     | 1.5        | Easy     | https://open.kattis.com/problems/forcedchoice              |
-| FYI                                               | 1.3        | Easy     | https://open.kattis.com/problems/fyi                       |
-| GCVWR                                             | 1.4        | Easy     | https://open.kattis.com/problems/gcvwr                     |
-| Goomba Stacks                                     | 1.5        | Easy     | https://open.kattis.com/problems/goombastacks              |
-| Grading                                           | 1.5        | Easy     | https://open.kattis.com/problems/grading                   |
-| Grass Seed Inc.                                   | 1.4        | Easy     | https://open.kattis.com/problems/grassseed                 |
-| Greedily Increasing Subsequence                   | 2.1        | Easy     | https://open.kattis.com/problems/greedilyincreasing        |
-| Greetings!                                        | 1.3        | Easy     | https://open.kattis.com/problems/greetings2                |
-| Hardwood Species                                  | 2.7        | Easy     | https://open.kattis.com/problems/hardwoodspecies           |
-| Harshad Numbers                                   | 1.5        | Easy     | https://open.kattis.com/problems/harshadnumbers            |
-| Heart Rate                                        | 1.4        | Easy     | https://open.kattis.com/problems/heartrate                 |
-| Height Ordering                                   | 2          | Easy     | https://open.kattis.com/problems/height                    |
-| Homework                                          | 1.5        | Easy     | https://open.kattis.com/problems/heimavinna                |
-| Heir's Dilemma                                    | 1.6        | Easy     | https://open.kattis.com/problems/heirsdilemma              |
-| Hello World!                                      | 1.2        | Easy     | https://open.kattis.com/problems/hello                     |
-| Hermits                                           | 3.2        | Medium   | https://open.kattis.com/problems/hermits                   |
-| Hissing Microphone                                | 1.4        | Easy     | https://open.kattis.com/problems/hissingmicrophone         |
-| Hraðgreining                                      | 1.3        | Easy     | https://open.kattis.com/problems/hradgreining              |
-| International Dates                               | 1.5        | Easy     | https://open.kattis.com/problems/internationaldates        |
-| Invasion                                          | 5.4        | Medium   | https://open.kattis.com/problems/invasion                  |
-| Inverted Deck                                     | 4.4        | Medium   | https://open.kattis.com/problems/inverteddeck              |
-| IsItHalloween.com                                 | 1.4        | Easy     | https://open.kattis.com/problems/isithalloween             |
-| Jack-O'-Lantern Juxtaposition                     | 1.3        | Easy     | https://open.kattis.com/problems/jackolanternjuxtaposition |
-| Jane Eyre                                         | 2.9        | Medium   | https://open.kattis.com/problems/janeeyre                  |
-| Janitor Troubles                                  | 1.5        | Easy     | https://open.kattis.com/problems/janitortroubles           |
-| Job Switching                                     | 2.4        | Easy     | https://open.kattis.com/problems/jobbyte                   |
-| Job Expenses                                      | 1.5        | Easy     | https://open.kattis.com/problems/jobexpenses               |
-| Join Strings                                      | 5.5        | Hard     | https://open.kattis.com/problems/joinstrings               |
-| Jolly Jumpers                                     | 3.1        | Medium   | https://open.kattis.com/problems/jollyjumpers              |
-| Judging Troubles                                  | 3          | Medium   | https://open.kattis.com/problems/judging                   |
-| Jumbo Javelin                                     | 1.3        | Easy     | https://open.kattis.com/problems/jumbojavelin              |
-| Kanna's Friendship                                | 4.6        | Medium   | https://open.kattis.com/problems/kannafriendship           |
-| Running Race                                      | 2.9        | Medium   | https://open.kattis.com/problems/kaploeb                   |
-| Kattis's Quest                                    | 3          | Medium   | https://open.kattis.com/problems/kattissquest              |
-| Matrix Keypad                                     | 3.4        | Medium   | https://open.kattis.com/problems/keypad                    |
-| Kiki Boba                                         | 1.4        | Easy     | https://open.kattis.com/problems/kikiboba                  |
-| Knight Packing                                    | 1.2        | Easy     | https://open.kattis.com/problems/knightpacking             |
-| Knigs of the Forest                               | 4.4        | Medium   | https://open.kattis.com/problems/knigsoftheforest          |
-| Knot Knowledge                                    | 1.4        | Easy     | https://open.kattis.com/problems/knotknowledge             |
-| Ladder                                            | 1.5        | Easy     | https://open.kattis.com/problems/ladder                    |
-| Laptop Sticker                                    | 1.5        | Easy     | https://open.kattis.com/problems/laptopsticker             |
-| Laptop Stickers                                   | 2.6        | Easy     | https://open.kattis.com/problems/laptopstickers            |
-| Last Factorial Digit                              | 1.4        | Easy     | https://open.kattis.com/problems/lastfactorialdigit        |
-| Leggja saman                                      | 1.2        | Easy     | https://open.kattis.com/problems/leggjasaman               |
-| Magic Trick                                       | 1.5        | Easy     | https://open.kattis.com/problems/magictrick                |
-| Managing Packaging                                | 5          | Medium   | https://open.kattis.com/problems/managingpackaging         |
-| Mastering Mastermind                              | 2.7        | Easy     | https://open.kattis.com/problems/mastermind                |
-| Message                                           | 1.5        | Easy     | https://open.kattis.com/problems/meddelande                |
-| Metronome                                         | 1.2        | Easy     | https://open.kattis.com/problems/metronome                 |
-| Millifærsla                                       | 1.2        | Easy     | https://open.kattis.com/problems/millifaersla              |
-| Modulo                                            | 1.5        | Easy     | https://open.kattis.com/problems/modulo                    |
-| Modulo Solitaire                                  | 3          | Medium   | https://open.kattis.com/problems/modulosolitaire           |
-| Monopoly                                          | 1.4        | Easy     | https://open.kattis.com/problems/monopol                   |
-| Music Your Way                                    | 2.4        | Easy     | https://open.kattis.com/problems/musicyourway              |
-| Nasty Hacks                                       | 1.4        | Easy     | https://open.kattis.com/problems/nastyhacks                |
-| Nicknames                                         | 3.8        | Medium   | https://open.kattis.com/problems/nicknames                 |
-| No Duplicates                                     | 1.5        | Easy     | https://open.kattis.com/problems/nodup                     |
-| No Thanks!                                        | 2          | Easy     | https://open.kattis.com/problems/nothanks                  |
-| N-sum                                             | 1.3        | Easy     | https://open.kattis.com/problems/nsum                      |
-| Ocean Currents                                    | 5.2        | Medium   | https://open.kattis.com/problems/oceancurrents             |
-| Odd Echo                                          | 1.4        | Easy     | https://open.kattis.com/problems/oddecho                   |
-| Oddities                                          | 1.4        | Easy     | https://open.kattis.com/problems/oddities                  |
-| Odd Man Out                                       | 1.5        | Easy     | https://open.kattis.com/problems/oddmanout                 |
-| Reverse                                           | 1.6        | Easy     | https://open.kattis.com/problems/ofugsnuid                 |
-| Olympus Måns                                      | 5.7        | Hard     | https://open.kattis.com/problems/olympusmans               |
-| On Average They're Purple                         | 3.1        | Medium   | https://open.kattis.com/problems/onaveragetheyrepurple     |
-| Óvissa                                            | 1.2        | Easy     | https://open.kattis.com/problems/ovissa                    |
-| Pairing Socks                                     | 3.4        | Medium   | https://open.kattis.com/problems/pairingsocks              |
-| Physical Music                                    | 5.9        | Hard     | https://open.kattis.com/problems/physicalmusic             |
-| Piece of Cake!                                    | 1.4        | Easy     | https://open.kattis.com/problems/pieceofcake2              |
-| Pokechat                                          | 1.4        | Easy     | https://open.kattis.com/problems/pokechat                  |
-| Pot                                               | 1.5        | Easy     | https://open.kattis.com/problems/pot                       |
-| Prjónamynstur                                     | 1.5        | Easy     | https://open.kattis.com/problems/prjonamynstur             |
-| Proofs                                            | 2.6        | Easy     | https://open.kattis.com/problems/proofs                    |
-| Provinces and Gold                                | 1.5        | Easy     | https://open.kattis.com/problems/provincesandgold          |
-| Building Pyramids                                 | 1.6        | Easy     | https://open.kattis.com/problems/pyramids                  |
-| Quality-Adjusted Life-Year                        | 1.3        | Easy     | https://open.kattis.com/problems/qaly                      |
-| Quadrant Selection                                | 1.2        | Easy     | https://open.kattis.com/problems/quadrant                  |
-| R2                                                | 1.4        | Easy     | https://open.kattis.com/problems/r2                        |
-| A Rank Problem                                    | 2.8        | Medium   | https://open.kattis.com/problems/rankproblem               |
-| Rating Problems                                   | 1.5        | Easy     | https://open.kattis.com/problems/ratingproblems            |
-| Reachable Roads                                   | 2.1        | Easy     | https://open.kattis.com/problems/reachableroads            |
-| Reduplication                                     | 1.3        | Easy     | https://open.kattis.com/problems/reduplikation             |
-| Relocation                                        | 1.5        | Easy     | https://open.kattis.com/problems/relocation                |
-| Reversed Binary Numbers                           | 1.4        | Easy     | https://open.kattis.com/problems/reversebinary             |
-| Rock Band                                         | 4.1        | Medium   | https://open.kattis.com/problems/rockband                  |
-| Seven Wonders                                     | 1.5        | Easy     | https://open.kattis.com/problems/sevenwonders              |
-| Single source shortest path, non-negative weights | 3.3        | Medium   | https://open.kattis.com/problems/shortestpath1             |
-| Single source shortest path, time table           | 3.8        | Medium   | https://open.kattis.com/problems/shortestpath2             |
-| Sibice                                            | 1.5        | Easy     | https://open.kattis.com/problems/sibice                    |
-| Digit Product                                     | 1.6        | Easy     | https://open.kattis.com/problems/sifferprodukt             |
-| Sim                                               | 3.4        | Medium   | https://open.kattis.com/problems/sim                       |
-| Sith                                              | 1.5        | Easy     | https://open.kattis.com/problems/sith                      |
-| Skammstöfun                                       | 1.4        | Easy     | https://open.kattis.com/problems/skammstofun               |
-| Turn It Up!                                       | 1.6        | Easy     | https://open.kattis.com/problems/skruop                    |
-| SMIL                                              | 1.6        | Easy     | https://open.kattis.com/problems/smil                      |
-| Sort                                              | 2.8        | Medium   | https://open.kattis.com/problems/sort                      |
-| Sort of Sorting                                   | 2.2        | Easy     | https://open.kattis.com/problems/sortofsorting             |
-| Sort Two Numbers                                  | 1.3        | Easy     | https://open.kattis.com/problems/sorttwonumbers            |
-| Sóttkví                                           | 1.5        | Easy     | https://open.kattis.com/problems/sottkvi                   |
-| Spavanac                                          | 1.5        | Easy     | https://open.kattis.com/problems/spavanac                  |
-| Speedrun                                          | 2.3        | Easy     | https://open.kattis.com/problems/speedrun                  |
-| Spritt                                            | 1.4        | Easy     | https://open.kattis.com/problems/spritt                    |
-| Stafur                                            | 1.6        | Easy     | https://open.kattis.com/problems/stafur                    |
-| Sticky Keys                                       | 1.5        | Easy     | https://open.kattis.com/problems/stickykeys                |
-| Stock Prices                                      | 4          | Medium   | https://open.kattis.com/problems/stockprices               |
-| Sum Squared Digits Function                       | 1.5        | Easy     | https://open.kattis.com/problems/sumsquareddigits          |
-| Swap to Sort                                      | 3.2        | Medium   | https://open.kattis.com/problems/swaptosort                |
-| Tarifa                                            | 1.4        | Easy     | https://open.kattis.com/problems/tarifa                    |
-| Tenis                                             | 3.5        | Medium   | https://open.kattis.com/problems/tenis                     |
-| Teque                                             | 4.5        | Medium   | https://open.kattis.com/problems/teque                     |
-| The Plank                                         | 1.6        | Easy     | https://open.kattis.com/problems/theplank                  |
-| Stuck In A Time Loop                              | 1.4        | Easy     | https://open.kattis.com/problems/timeloop                  |
-| Tölvunarfræðingar telja                           | 1.2        | Easy     | https://open.kattis.com/problems/tolvunarfraedingartelja   |
-| Tracking Shares                                   | 2.3        | Easy     | https://open.kattis.com/problems/trackingshares            |
-| Travel the Skies                                  | 3          | Medium   | https://open.kattis.com/problems/traveltheskies            |
-| Treehouses                                        | 3          | Medium   | https://open.kattis.com/problems/treehouses                |
-| Triangle Area                                     | 1.4        | Easy     | https://open.kattis.com/problems/triarea                   |
-| Trik                                              | 1.4        | Easy     | https://open.kattis.com/problems/trik                      |
-| Take Two Stones                                   | 1.3        | Easy     | https://open.kattis.com/problems/twostones                 |
-| Two-sum                                           | 1.3        | Easy     | https://open.kattis.com/problems/twosum                    |
-| Úllen dúllen doff                                 | 1.6        | Easy     | https://open.kattis.com/problems/ullendullendoff           |
-| Umferð                                            | 1.4        | Easy     | https://open.kattis.com/problems/umferd                    |
-| Undead or Alive                                   | 1.4        | Easy     | https://open.kattis.com/problems/undeadoralive             |
-| University Zoning                                 | 2.8        | Easy     | https://open.kattis.com/problems/universityzoning          |
-| Arrangement                                       | 1.6        | Easy     | https://open.kattis.com/problems/upprodun                  |
-| The Ups and Downs of Investing                    | 3.7        | Medium   | https://open.kattis.com/problems/upsanddownsofinvesting    |
-| Veður - Lokaðar heiðar                            | 1.4        | Easy     | https://open.kattis.com/problems/vedurheidar               |
-| Veður - Vindhraði                                 | 1.5        | Easy     | https://open.kattis.com/problems/vedurvindhradi            |
-| Vefþjónatjón                                      | 1.5        | Easy     | https://open.kattis.com/problems/vefthjonatjon             |
-| Velkomin!                                         | 1.1        | Easy     | https://open.kattis.com/problems/velkomin                  |
-| Viðsnúningur                                      | 1.2        | Easy     | https://open.kattis.com/problems/vidsnuningur              |
-| Weak Vertices                                     | 1.5        | Easy     | https://open.kattis.com/problems/weakvertices              |
-| Which is Greater?                                 | 1.3        | Easy     | https://open.kattis.com/problems/whichisgreater            |
-| Stand on Zanzibar                                 | 1.5        | Easy     | https://open.kattis.com/problems/zanzibar                  |
+Kattis
+| name                                              | difficulty | category | link                                                       |                                                                                                     |
+|---------------------------------------------------|------------|----------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Adding Trouble                                    | 1.3        | Easy     | https://open.kattis.com/problems/addingtrouble             | [Adding Trouble](https://open.kattis.com/problems/addingtrouble)                                    |
+| Add Two Numbers                                   | 1.3        | Easy     | https://open.kattis.com/problems/addtwonumbers             | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)                                   |
+| Á leið í bíó                                      | 1.2        | Easy     | https://open.kattis.com/problems/aleidibio                 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio)                                          |
+| Amerískur vinnustaður                             | 1.3        | Easy     | https://open.kattis.com/problems/ameriskur                 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)                                 |
+| Annoyed Coworkers                                 | 3.1        | Medium   | https://open.kattis.com/problems/annoyedcoworkers          | [Annoyed Coworkers](https://open.kattis.com/problems/annoyedcoworkers)                              |
+| Apaxiaaaaaaaaaaaans!                              | 1.5        | Easy     | https://open.kattis.com/problems/apaxiaaans                | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)                                 |
+| ASCII kassi                                       | 1.5        | Easy     | https://open.kattis.com/problems/asciikassi                | [ASCII kassi](https://open.kattis.com/problems/asciikassi)                                          |
+| Autori                                            | 1.2        | Easy     | https://open.kattis.com/problems/autori                    | [Autori](https://open.kattis.com/problems/autori)                                                   |
+| Avion                                             | 1.5        | Easy     | https://open.kattis.com/problems/avion                     | [Avion](https://open.kattis.com/problems/avion)                                                     |
+| Backspace                                         | 2.4        | Easy     | https://open.kattis.com/problems/backspace                 | [Backspace](https://open.kattis.com/problems/backspace)                                             |
+| Distributing Ballot Boxes                         | 3.9        | Medium   | https://open.kattis.com/problems/ballotboxes               | [Distributing Ballot Boxes](https://open.kattis.com/problems/ballotboxes)                           |
+| Baloni                                            | 4          | Medium   | https://open.kattis.com/problems/baloni                    | [Baloni](https://open.kattis.com/problems/baloni)                                                   |
+| Basic Programming 2                               | 4.3        | Medium   | https://open.kattis.com/problems/basicprogramming2         | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)                           |
+| Batter Up                                         | 1.4        | Easy     | https://open.kattis.com/problems/batterup                  | [Batter Up](https://open.kattis.com/problems/batterup)                                              |
+| Betting                                           | 1.3        | Easy     | https://open.kattis.com/problems/betting                   | [Betting](https://open.kattis.com/problems/betting)                                                 |
+| Bijele                                            | 1.4        | Easy     | https://open.kattis.com/problems/bijele                    | [Bijele](https://open.kattis.com/problems/bijele)                                                   |
+| Accounting                                        | 3.3        | Medium   | https://open.kattis.com/problems/bokforing                 | [Accounting](https://open.kattis.com/problems/bokforing)                                            |
+| Book Shelves                                      | 3.4        | Medium   | https://open.kattis.com/problems/bokhyllor                 | [Book Shelves](https://open.kattis.com/problems/bokhyllor)                                          |
+| Booking                                           | 5.6        | Hard     | https://open.kattis.com/problems/booking                   | [Booking](https://open.kattis.com/problems/booking)                                                 |
+| Bracket Sequence                                  | 5.2        | Medium   | https://open.kattis.com/problems/bracketsequence           | [Bracket Sequence](https://open.kattis.com/problems/bracketsequence)                                |
+| Bridges                                           | 2.1        | Easy     | https://open.kattis.com/problems/bryr                      | [Bridges](https://open.kattis.com/problems/bryr)                                                    |
+| Build Dependencies                                | 3.4        | Medium   | https://open.kattis.com/problems/builddeps                 | [Build Dependencies](https://open.kattis.com/problems/builddeps)                                    |
+| Button Bashing                                    | 3.5        | Medium   | https://open.kattis.com/problems/buttonbashing             | [Button Bashing](https://open.kattis.com/problems/buttonbashing)                                    |
+| Candy Division                                    | 3.9        | Medium   | https://open.kattis.com/problems/candydivision             | [Candy Division](https://open.kattis.com/problems/candydivision)                                    |
+| Solving for Carrots                               | 1.4        | Easy     | https://open.kattis.com/problems/carrots                   | [Solving for Carrots](https://open.kattis.com/problems/carrots)                                     |
+| A Feast For Cats                                  | 4          | Medium   | https://open.kattis.com/problems/cats                      | [A Feast For Cats](https://open.kattis.com/problems/cats)                                           |
+| Cetvrta                                           | 1.5        | Easy     | https://open.kattis.com/problems/cetvrta                   | [Cetvrta](https://open.kattis.com/problems/cetvrta)                                                 |
+| Chanukah Challenge                                | 1.4        | Easy     | https://open.kattis.com/problems/chanukah                  | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)                                     |
+| Class Field Trip                                  | 1.4        | Easy     | https://open.kattis.com/problems/classfieldtrip            | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip)                                 |
+| A Classy Problem                                  | 5          | Medium   | https://open.kattis.com/problems/classy                    | [A Classy Problem](https://open.kattis.com/problems/classy)                                         |
+| Closing the Loop                                  | 1.9        | Easy     | https://open.kattis.com/problems/closingtheloop            | [Closing the Loop](https://open.kattis.com/problems/closingtheloop)                                 |
+| Coffee Cup Combo                                  | 1.7        | Easy     | https://open.kattis.com/problems/coffeecupcombo            | [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)                                 |
+| Cold-puter Science                                | 1.3        | Easy     | https://open.kattis.com/problems/cold                      | [Cold-puter Science](https://open.kattis.com/problems/cold)                                         |
+| Best Compromise                                   | 2.1        | Easy     | https://open.kattis.com/problems/compromise                | [Best Compromise](https://open.kattis.com/problems/compromise)                                      |
+| Cryptographer's Conundrum                         | 1.5        | Easy     | https://open.kattis.com/problems/conundrum                 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)                             |
+| Cornhusker                                        | 1.5        | Easy     | https://open.kattis.com/problems/cornhusker                | [Cornhusker](https://open.kattis.com/problems/cornhusker)                                           |
+| Cosmic Path Optimization                          | 1.5        | Easy     | https://open.kattis.com/problems/cosmicpathoptimization    | [Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)                 |
+| Count the Vowels                                  | 1.4        | Easy     | https://open.kattis.com/problems/countthevowels            | [Count the Vowels](https://open.kattis.com/problems/countthevowels)                                 |
+| Course Scheduling                                 | 1.8        | Easy     | https://open.kattis.com/problems/coursescheduling          | [Course Scheduling](https://open.kattis.com/problems/coursescheduling)                              |
+| CPR Number                                        | 1.4        | Easy     | https://open.kattis.com/problems/cprnummer                 | [CPR Number](https://open.kattis.com/problems/cprnummer)                                            |
+| Stacking Cups                                     | 1.6        | Easy     | https://open.kattis.com/problems/cups                      | [Stacking Cups](https://open.kattis.com/problems/cups)                                              |
+| Curveknights                                      | 3.2        | Medium   | https://open.kattis.com/problems/curveknights              | [Curveknights](https://open.kattis.com/problems/curveknights)                                       |
+| Cut in Line                                       | 1.6        | Easy     | https://open.kattis.com/problems/cutinline                 | [Cut in Line](https://open.kattis.com/problems/cutinline)                                           |
+| Cut the Negativity                                | 1.4        | Easy     | https://open.kattis.com/problems/cutthenegativity          | [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity)                             |
+| Delimiter Soup                                    | 2.1        | Easy     | https://open.kattis.com/problems/delimitersoup             | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup)                                    |
+| Detailed Differences                              | 1.4        | Easy     | https://open.kattis.com/problems/detaileddifferences       | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences)                        |
+| Digit Swap                                        | 1.3        | Easy     | https://open.kattis.com/problems/digitswap                 | [Digit Swap](https://open.kattis.com/problems/digitswap)                                            |
+| Dirty Driving                                     | 3.8        | Medium   | https://open.kattis.com/problems/dirtydriving              | [Dirty Driving](https://open.kattis.com/problems/dirtydriving)                                      |
+| Divide by 100...                                  | 4.3        | Medium   | https://open.kattis.com/problems/divideby100               | [Divide by 100...](https://open.kattis.com/problems/divideby100)                                    |
+| Disastrous Downtime                               | 3.1        | Medium   | https://open.kattis.com/problems/downtime                  | [Disastrous Downtime](https://open.kattis.com/problems/downtime)                                    |
+| DRM Messages                                      | 1.5        | Easy     | https://open.kattis.com/problems/drmmessages               | [DRM Messages](https://open.kattis.com/problems/drmmessages)                                        |
+| Echo Echo Echo                                    | 1.3        | Easy     | https://open.kattis.com/problems/echoechoecho              | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)                                     |
+| Ekki dauði opna inni                              | 1.5        | Easy     | https://open.kattis.com/problems/ekkidaudi                 | [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)                                  |
+| Election Paradox                                  | 1.8        | Easy     | https://open.kattis.com/problems/electionparadox           | [Election Paradox](https://open.kattis.com/problems/electionparadox)                                |
+| Erase Securely                                    | 1.8        | Easy     | https://open.kattis.com/problems/erase                     | [Erase Securely](https://open.kattis.com/problems/erase)                                            |
+| Even Up Solitaire                                 | 2.7        | Easy     | https://open.kattis.com/problems/evenup                    | [Even Up Solitaire](https://open.kattis.com/problems/evenup)                                        |
+| I've Been Everywhere, Man                         | 1.4        | Easy     | https://open.kattis.com/problems/everywhere                | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)                            |
+| Eye of Sauron                                     | 1.5        | Easy     | https://open.kattis.com/problems/eyeofsauron               | [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)                                       |
+| Fading Wind                                       | 1.5        | Easy     | https://open.kattis.com/problems/fadingwind                | [Fading Wind](https://open.kattis.com/problems/fadingwind)                                          |
+| Faktor                                            | 1.4        | Easy     | https://open.kattis.com/problems/faktor                    | [Faktor](https://open.kattis.com/problems/faktor)                                                   |
+| Falcon Dive                                       | 3.1        | Medium   | https://open.kattis.com/problems/falcondive                | [Falcon Dive](https://open.kattis.com/problems/falcondive)                                          |
+| Fend Off Titan                                    | 2.5        | Easy     | https://open.kattis.com/problems/fendofftitan              | [Fend Off Titan](https://open.kattis.com/problems/fendofftitan)                                     |
+| Framtíðar FIFA                                    | 1.2        | Easy     | https://open.kattis.com/problems/fifa                      | [Framtíðar FIFA](https://open.kattis.com/problems/fifa)                                             |
+| Fifty Shades of Pink                              | 1.5        | Easy     | https://open.kattis.com/problems/fiftyshades               | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)                                |
+| Filip                                             | 1.4        | Easy     | https://open.kattis.com/problems/filip                     | [Filip](https://open.kattis.com/problems/filip)                                                     |
+| Finding An A                                      | 1.3        | Easy     | https://open.kattis.com/problems/findingana                | [Finding An A](https://open.kattis.com/problems/findingana)                                         |
+| FizzBuzz                                          | 1.5        | Easy     | https://open.kattis.com/problems/fizzbuzz                  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)                                               |
+| Flatbökuveisla                                    | 1.2        | Easy     | https://open.kattis.com/problems/flatbokuveisla            | [Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)                                   |
+| Flipping Patties                                  | 2.5        | Easy     | https://open.kattis.com/problems/flippingpatties           | [Flipping Patties](https://open.kattis.com/problems/flippingpatties)                                |
+| Flow Shop                                         | 2.3        | Easy     | https://open.kattis.com/problems/flowshop                  | [Flow Shop](https://open.kattis.com/problems/flowshop)                                              |
+| Fluortanten                                       | 3.1        | Medium   | https://open.kattis.com/problems/fluortanten               | [Fluortanten](https://open.kattis.com/problems/fluortanten)                                         |
+| Flýtibaka                                         | 1.4        | Easy     | https://open.kattis.com/problems/flytibaka                 | [Flýtibaka](https://open.kattis.com/problems/flytibaka)                                             |
+| Birthday Memorization                             | 1.6        | Easy     | https://open.kattis.com/problems/fodelsedagsmemorisering   | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)                   |
+| Forced Choice                                     | 1.5        | Easy     | https://open.kattis.com/problems/forcedchoice              | [Forced Choice](https://open.kattis.com/problems/forcedchoice)                                      |
+| FYI                                               | 1.3        | Easy     | https://open.kattis.com/problems/fyi                       | [FYI](https://open.kattis.com/problems/fyi)                                                         |
+| GCVWR                                             | 1.4        | Easy     | https://open.kattis.com/problems/gcvwr                     | [GCVWR](https://open.kattis.com/problems/gcvwr)                                                     |
+| Goomba Stacks                                     | 1.5        | Easy     | https://open.kattis.com/problems/goombastacks              | [Goomba Stacks](https://open.kattis.com/problems/goombastacks)                                      |
+| Grading                                           | 1.5        | Easy     | https://open.kattis.com/problems/grading                   | [Grading](https://open.kattis.com/problems/grading)                                                 |
+| Grass Seed Inc.                                   | 1.4        | Easy     | https://open.kattis.com/problems/grassseed                 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)                                       |
+| Greedily Increasing Subsequence                   | 2.1        | Easy     | https://open.kattis.com/problems/greedilyincreasing        | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)              |
+| Greetings!                                        | 1.3        | Easy     | https://open.kattis.com/problems/greetings2                | [Greetings!](https://open.kattis.com/problems/greetings2)                                           |
+| Hardwood Species                                  | 2.7        | Easy     | https://open.kattis.com/problems/hardwoodspecies           | [Hardwood Species](https://open.kattis.com/problems/hardwoodspecies)                                |
+| Harshad Numbers                                   | 1.5        | Easy     | https://open.kattis.com/problems/harshadnumbers            | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)                                  |
+| Heart Rate                                        | 1.4        | Easy     | https://open.kattis.com/problems/heartrate                 | [Heart Rate](https://open.kattis.com/problems/heartrate)                                            |
+| Height Ordering                                   | 2          | Easy     | https://open.kattis.com/problems/height                    | [Height Ordering](https://open.kattis.com/problems/height)                                          |
+| Homework                                          | 1.5        | Easy     | https://open.kattis.com/problems/heimavinna                | [Homework](https://open.kattis.com/problems/heimavinna)                                             |
+| Heir's Dilemma                                    | 1.6        | Easy     | https://open.kattis.com/problems/heirsdilemma              | [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)                                     |
+| Hello World!                                      | 1.2        | Easy     | https://open.kattis.com/problems/hello                     | [Hello World!](https://open.kattis.com/problems/hello)                                              |
+| Hermits                                           | 3.2        | Medium   | https://open.kattis.com/problems/hermits                   | [Hermits](https://open.kattis.com/problems/hermits)                                                 |
+| Hissing Microphone                                | 1.4        | Easy     | https://open.kattis.com/problems/hissingmicrophone         | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)                            |
+| Hraðgreining                                      | 1.3        | Easy     | https://open.kattis.com/problems/hradgreining              | [Hraðgreining](https://open.kattis.com/problems/hradgreining)                                       |
+| International Dates                               | 1.5        | Easy     | https://open.kattis.com/problems/internationaldates        | [International Dates](https://open.kattis.com/problems/internationaldates)                          |
+| Invasion                                          | 5.4        | Medium   | https://open.kattis.com/problems/invasion                  | [Invasion](https://open.kattis.com/problems/invasion)                                               |
+| Inverted Deck                                     | 4.4        | Medium   | https://open.kattis.com/problems/inverteddeck              | [Inverted Deck](https://open.kattis.com/problems/inverteddeck)                                      |
+| IsItHalloween.com                                 | 1.4        | Easy     | https://open.kattis.com/problems/isithalloween             | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)                                 |
+| Jack-O'-Lantern Juxtaposition                     | 1.3        | Easy     | https://open.kattis.com/problems/jackolanternjuxtaposition | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)         |
+| Jane Eyre                                         | 2.9        | Medium   | https://open.kattis.com/problems/janeeyre                  | [Jane Eyre](https://open.kattis.com/problems/janeeyre)                                              |
+| Janitor Troubles                                  | 1.5        | Easy     | https://open.kattis.com/problems/janitortroubles           | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles)                                |
+| Job Switching                                     | 2.4        | Easy     | https://open.kattis.com/problems/jobbyte                   | [Job Switching](https://open.kattis.com/problems/jobbyte)                                           |
+| Job Expenses                                      | 1.5        | Easy     | https://open.kattis.com/problems/jobexpenses               | [Job Expenses](https://open.kattis.com/problems/jobexpenses)                                        |
+| Join Strings                                      | 5.5        | Hard     | https://open.kattis.com/problems/joinstrings               | [Join Strings](https://open.kattis.com/problems/joinstrings)                                        |
+| Jolly Jumpers                                     | 3.1        | Medium   | https://open.kattis.com/problems/jollyjumpers              | [Jolly Jumpers](https://open.kattis.com/problems/jollyjumpers)                                      |
+| Judging Troubles                                  | 3          | Medium   | https://open.kattis.com/problems/judging                   | [Judging Troubles](https://open.kattis.com/problems/judging)                                        |
+| Jumbo Javelin                                     | 1.3        | Easy     | https://open.kattis.com/problems/jumbojavelin              | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)                                      |
+| Kanna's Friendship                                | 4.6        | Medium   | https://open.kattis.com/problems/kannafriendship           | [Kanna's Friendship](https://open.kattis.com/problems/kannafriendship)                              |
+| Running Race                                      | 2.9        | Medium   | https://open.kattis.com/problems/kaploeb                   | [Running Race](https://open.kattis.com/problems/kaploeb)                                            |
+| Kattis's Quest                                    | 3          | Medium   | https://open.kattis.com/problems/kattissquest              | [Kattis's Quest](https://open.kattis.com/problems/kattissquest)                                     |
+| Matrix Keypad                                     | 3.4        | Medium   | https://open.kattis.com/problems/keypad                    | [Matrix Keypad](https://open.kattis.com/problems/keypad)                                            |
+| Kiki Boba                                         | 1.4        | Easy     | https://open.kattis.com/problems/kikiboba                  | [Kiki Boba](https://open.kattis.com/problems/kikiboba)                                              |
+| Knight Packing                                    | 1.2        | Easy     | https://open.kattis.com/problems/knightpacking             | [Knight Packing](https://open.kattis.com/problems/knightpacking)                                    |
+| Knigs of the Forest                               | 4.4        | Medium   | https://open.kattis.com/problems/knigsoftheforest          | [Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest)                            |
+| Knot Knowledge                                    | 1.4        | Easy     | https://open.kattis.com/problems/knotknowledge             | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)                                    |
+| Ladder                                            | 1.5        | Easy     | https://open.kattis.com/problems/ladder                    | [Ladder](https://open.kattis.com/problems/ladder)                                                   |
+| Laptop Sticker                                    | 1.5        | Easy     | https://open.kattis.com/problems/laptopsticker             | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)                                    |
+| Laptop Stickers                                   | 2.6        | Easy     | https://open.kattis.com/problems/laptopstickers            | [Laptop Stickers](https://open.kattis.com/problems/laptopstickers)                                  |
+| Last Factorial Digit                              | 1.4        | Easy     | https://open.kattis.com/problems/lastfactorialdigit        | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)                         |
+| Leggja saman                                      | 1.2        | Easy     | https://open.kattis.com/problems/leggjasaman               | [Leggja saman](https://open.kattis.com/problems/leggjasaman)                                        |
+| Magic Trick                                       | 1.5        | Easy     | https://open.kattis.com/problems/magictrick                | [Magic Trick](https://open.kattis.com/problems/magictrick)                                          |
+| Managing Packaging                                | 5          | Medium   | https://open.kattis.com/problems/managingpackaging         | [Managing Packaging](https://open.kattis.com/problems/managingpackaging)                            |
+| Mastering Mastermind                              | 2.7        | Easy     | https://open.kattis.com/problems/mastermind                | [Mastering Mastermind](https://open.kattis.com/problems/mastermind)                                 |
+| Message                                           | 1.5        | Easy     | https://open.kattis.com/problems/meddelande                | [Message](https://open.kattis.com/problems/meddelande)                                              |
+| Metronome                                         | 1.2        | Easy     | https://open.kattis.com/problems/metronome                 | [Metronome](https://open.kattis.com/problems/metronome)                                             |
+| Millifærsla                                       | 1.2        | Easy     | https://open.kattis.com/problems/millifaersla              | [Millifærsla](https://open.kattis.com/problems/millifaersla)                                        |
+| Modulo                                            | 1.5        | Easy     | https://open.kattis.com/problems/modulo                    | [Modulo](https://open.kattis.com/problems/modulo)                                                   |
+| Modulo Solitaire                                  | 3          | Medium   | https://open.kattis.com/problems/modulosolitaire           | [Modulo Solitaire](https://open.kattis.com/problems/modulosolitaire)                                |
+| Monopoly                                          | 1.4        | Easy     | https://open.kattis.com/problems/monopol                   | [Monopoly](https://open.kattis.com/problems/monopol)                                                |
+| Music Your Way                                    | 2.4        | Easy     | https://open.kattis.com/problems/musicyourway              | [Music Your Way](https://open.kattis.com/problems/musicyourway)                                     |
+| Nasty Hacks                                       | 1.4        | Easy     | https://open.kattis.com/problems/nastyhacks                | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)                                          |
+| Nicknames                                         | 3.8        | Medium   | https://open.kattis.com/problems/nicknames                 | [Nicknames](https://open.kattis.com/problems/nicknames)                                             |
+| No Duplicates                                     | 1.5        | Easy     | https://open.kattis.com/problems/nodup                     | [No Duplicates](https://open.kattis.com/problems/nodup)                                             |
+| No Thanks!                                        | 2          | Easy     | https://open.kattis.com/problems/nothanks                  | [No Thanks!](https://open.kattis.com/problems/nothanks)                                             |
+| N-sum                                             | 1.3        | Easy     | https://open.kattis.com/problems/nsum                      | [N-sum](https://open.kattis.com/problems/nsum)                                                      |
+| Ocean Currents                                    | 5.2        | Medium   | https://open.kattis.com/problems/oceancurrents             | [Ocean Currents](https://open.kattis.com/problems/oceancurrents)                                    |
+| Odd Echo                                          | 1.4        | Easy     | https://open.kattis.com/problems/oddecho                   | [Odd Echo](https://open.kattis.com/problems/oddecho)                                                |
+| Oddities                                          | 1.4        | Easy     | https://open.kattis.com/problems/oddities                  | [Oddities](https://open.kattis.com/problems/oddities)                                               |
+| Odd Man Out                                       | 1.5        | Easy     | https://open.kattis.com/problems/oddmanout                 | [Odd Man Out](https://open.kattis.com/problems/oddmanout)                                           |
+| Reverse                                           | 1.6        | Easy     | https://open.kattis.com/problems/ofugsnuid                 | [Reverse](https://open.kattis.com/problems/ofugsnuid)                                               |
+| Olympus Måns                                      | 5.7        | Hard     | https://open.kattis.com/problems/olympusmans               | [Olympus Måns](https://open.kattis.com/problems/olympusmans)                                        |
+| On Average They're Purple                         | 3.1        | Medium   | https://open.kattis.com/problems/onaveragetheyrepurple     | [On Average They're Purple](https://open.kattis.com/problems/onaveragetheyrepurple)                 |
+| Óvissa                                            | 1.2        | Easy     | https://open.kattis.com/problems/ovissa                    | [Óvissa](https://open.kattis.com/problems/ovissa)                                                   |
+| Pairing Socks                                     | 3.4        | Medium   | https://open.kattis.com/problems/pairingsocks              | [Pairing Socks](https://open.kattis.com/problems/pairingsocks)                                      |
+| Physical Music                                    | 5.9        | Hard     | https://open.kattis.com/problems/physicalmusic             | [Physical Music](https://open.kattis.com/problems/physicalmusic)                                    |
+| Piece of Cake!                                    | 1.4        | Easy     | https://open.kattis.com/problems/pieceofcake2              | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)                                     |
+| Pokechat                                          | 1.4        | Easy     | https://open.kattis.com/problems/pokechat                  | [Pokechat](https://open.kattis.com/problems/pokechat)                                               |
+| Pot                                               | 1.5        | Easy     | https://open.kattis.com/problems/pot                       | [Pot](https://open.kattis.com/problems/pot)                                                         |
+| Prjónamynstur                                     | 1.5        | Easy     | https://open.kattis.com/problems/prjonamynstur             | [Prjónamynstur](https://open.kattis.com/problems/prjonamynstur)                                     |
+| Proofs                                            | 2.6        | Easy     | https://open.kattis.com/problems/proofs                    | [Proofs](https://open.kattis.com/problems/proofs)                                                   |
+| Provinces and Gold                                | 1.5        | Easy     | https://open.kattis.com/problems/provincesandgold          | [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)                             |
+| Building Pyramids                                 | 1.6        | Easy     | https://open.kattis.com/problems/pyramids                  | [Building Pyramids](https://open.kattis.com/problems/pyramids)                                      |
+| Quality-Adjusted Life-Year                        | 1.3        | Easy     | https://open.kattis.com/problems/qaly                      | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)                                 |
+| Quadrant Selection                                | 1.2        | Easy     | https://open.kattis.com/problems/quadrant                  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)                                     |
+| R2                                                | 1.4        | Easy     | https://open.kattis.com/problems/r2                        | [R2](https://open.kattis.com/problems/r2)                                                           |
+| A Rank Problem                                    | 2.8        | Medium   | https://open.kattis.com/problems/rankproblem               | [A Rank Problem](https://open.kattis.com/problems/rankproblem)                                      |
+| Rating Problems                                   | 1.5        | Easy     | https://open.kattis.com/problems/ratingproblems            | [Rating Problems](https://open.kattis.com/problems/ratingproblems)                                  |
+| Reachable Roads                                   | 2.1        | Easy     | https://open.kattis.com/problems/reachableroads            | [Reachable Roads](https://open.kattis.com/problems/reachableroads)                                  |
+| Reduplication                                     | 1.3        | Easy     | https://open.kattis.com/problems/reduplikation             | [Reduplication](https://open.kattis.com/problems/reduplikation)                                     |
+| Relocation                                        | 1.5        | Easy     | https://open.kattis.com/problems/relocation                | [Relocation](https://open.kattis.com/problems/relocation)                                           |
+| Reversed Binary Numbers                           | 1.4        | Easy     | https://open.kattis.com/problems/reversebinary             | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)                           |
+| Rock Band                                         | 4.1        | Medium   | https://open.kattis.com/problems/rockband                  | [Rock Band](https://open.kattis.com/problems/rockband)                                              |
+| Seven Wonders                                     | 1.5        | Easy     | https://open.kattis.com/problems/sevenwonders              | [Seven Wonders](https://open.kattis.com/problems/sevenwonders)                                      |
+| Single source shortest path, non-negative weights | 3.3        | Medium   | https://open.kattis.com/problems/shortestpath1             | [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1) |
+| Single source shortest path, time table           | 3.8        | Medium   | https://open.kattis.com/problems/shortestpath2             | [Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)           |
+| Sibice                                            | 1.5        | Easy     | https://open.kattis.com/problems/sibice                    | [Sibice](https://open.kattis.com/problems/sibice)                                                   |
+| Digit Product                                     | 1.6        | Easy     | https://open.kattis.com/problems/sifferprodukt             | [Digit Product](https://open.kattis.com/problems/sifferprodukt)                                     |
+| Sim                                               | 3.4        | Medium   | https://open.kattis.com/problems/sim                       | [Sim](https://open.kattis.com/problems/sim)                                                         |
+| Sith                                              | 1.5        | Easy     | https://open.kattis.com/problems/sith                      | [Sith](https://open.kattis.com/problems/sith)                                                       |
+| Skammstöfun                                       | 1.4        | Easy     | https://open.kattis.com/problems/skammstofun               | [Skammstöfun](https://open.kattis.com/problems/skammstofun)                                         |
+| Turn It Up!                                       | 1.6        | Easy     | https://open.kattis.com/problems/skruop                    | [Turn It Up!](https://open.kattis.com/problems/skruop)                                              |
+| SMIL                                              | 1.6        | Easy     | https://open.kattis.com/problems/smil                      | [SMIL](https://open.kattis.com/problems/smil)                                                       |
+| Sort                                              | 2.8        | Medium   | https://open.kattis.com/problems/sort                      | [Sort](https://open.kattis.com/problems/sort)                                                       |
+| Sort of Sorting                                   | 2.2        | Easy     | https://open.kattis.com/problems/sortofsorting             | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting)                                   |
+| Sort Two Numbers                                  | 1.3        | Easy     | https://open.kattis.com/problems/sorttwonumbers            | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)                                 |
+| Sóttkví                                           | 1.5        | Easy     | https://open.kattis.com/problems/sottkvi                   | [Sóttkví](https://open.kattis.com/problems/sottkvi)                                                 |
+| Spavanac                                          | 1.5        | Easy     | https://open.kattis.com/problems/spavanac                  | [Spavanac](https://open.kattis.com/problems/spavanac)                                               |
+| Speedrun                                          | 2.3        | Easy     | https://open.kattis.com/problems/speedrun                  | [Speedrun](https://open.kattis.com/problems/speedrun)                                               |
+| Spritt                                            | 1.4        | Easy     | https://open.kattis.com/problems/spritt                    | [Spritt](https://open.kattis.com/problems/spritt)                                                   |
+| Stafur                                            | 1.6        | Easy     | https://open.kattis.com/problems/stafur                    | [Stafur](https://open.kattis.com/problems/stafur)                                                   |
+| Sticky Keys                                       | 1.5        | Easy     | https://open.kattis.com/problems/stickykeys                | [Sticky Keys](https://open.kattis.com/problems/stickykeys)                                          |
+| Stock Prices                                      | 4          | Medium   | https://open.kattis.com/problems/stockprices               | [Stock Prices](https://open.kattis.com/problems/stockprices)                                        |
+| Sum Squared Digits Function                       | 1.5        | Easy     | https://open.kattis.com/problems/sumsquareddigits          | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)                    |
+| Swap to Sort                                      | 3.2        | Medium   | https://open.kattis.com/problems/swaptosort                | [Swap to Sort](https://open.kattis.com/problems/swaptosort)                                         |
+| Tarifa                                            | 1.4        | Easy     | https://open.kattis.com/problems/tarifa                    | [Tarifa](https://open.kattis.com/problems/tarifa)                                                   |
+| Tenis                                             | 3.5        | Medium   | https://open.kattis.com/problems/tenis                     | [Tenis](https://open.kattis.com/problems/tenis)                                                     |
+| Teque                                             | 4.5        | Medium   | https://open.kattis.com/problems/teque                     | [Teque](https://open.kattis.com/problems/teque)                                                     |
+| The Plank                                         | 1.6        | Easy     | https://open.kattis.com/problems/theplank                  | [The Plank](https://open.kattis.com/problems/theplank)                                              |
+| Stuck In A Time Loop                              | 1.4        | Easy     | https://open.kattis.com/problems/timeloop                  | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)                                   |
+| Tölvunarfræðingar telja                           | 1.2        | Easy     | https://open.kattis.com/problems/tolvunarfraedingartelja   | [Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)                 |
+| Tracking Shares                                   | 2.3        | Easy     | https://open.kattis.com/problems/trackingshares            | [Tracking Shares](https://open.kattis.com/problems/trackingshares)                                  |
+| Travel the Skies                                  | 3          | Medium   | https://open.kattis.com/problems/traveltheskies            | [Travel the Skies](https://open.kattis.com/problems/traveltheskies)                                 |
+| Treehouses                                        | 3          | Medium   | https://open.kattis.com/problems/treehouses                | [Treehouses](https://open.kattis.com/problems/treehouses)                                           |
+| Triangle Area                                     | 1.4        | Easy     | https://open.kattis.com/problems/triarea                   | [Triangle Area](https://open.kattis.com/problems/triarea)                                           |
+| Trik                                              | 1.4        | Easy     | https://open.kattis.com/problems/trik                      | [Trik](https://open.kattis.com/problems/trik)                                                       |
+| Take Two Stones                                   | 1.3        | Easy     | https://open.kattis.com/problems/twostones                 | [Take Two Stones](https://open.kattis.com/problems/twostones)                                       |
+| Two-sum                                           | 1.3        | Easy     | https://open.kattis.com/problems/twosum                    | [Two-sum](https://open.kattis.com/problems/twosum)                                                  |
+| Úllen dúllen doff                                 | 1.6        | Easy     | https://open.kattis.com/problems/ullendullendoff           | [Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff)                               |
+| Umferð                                            | 1.4        | Easy     | https://open.kattis.com/problems/umferd                    | [Umferð](https://open.kattis.com/problems/umferd)                                                   |
+| Undead or Alive                                   | 1.4        | Easy     | https://open.kattis.com/problems/undeadoralive             | [Undead or Alive](https://open.kattis.com/problems/undeadoralive)                                   |
+| University Zoning                                 | 2.8        | Easy     | https://open.kattis.com/problems/universityzoning          | [University Zoning](https://open.kattis.com/problems/universityzoning)                              |
+| Arrangement                                       | 1.6        | Easy     | https://open.kattis.com/problems/upprodun                  | [Arrangement](https://open.kattis.com/problems/upprodun)                                            |
+| The Ups and Downs of Investing                    | 3.7        | Medium   | https://open.kattis.com/problems/upsanddownsofinvesting    | [The Ups and Downs of Investing](https://open.kattis.com/problems/upsanddownsofinvesting)           |
+| Veður - Lokaðar heiðar                            | 1.4        | Easy     | https://open.kattis.com/problems/vedurheidar               | [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)                              |
+| Veður - Vindhraði                                 | 1.5        | Easy     | https://open.kattis.com/problems/vedurvindhradi            | [Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi)                                |
+| Vefþjónatjón                                      | 1.5        | Easy     | https://open.kattis.com/problems/vefthjonatjon             | [Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon)                                      |
+| Velkomin!                                         | 1.1        | Easy     | https://open.kattis.com/problems/velkomin                  | [Velkomin!](https://open.kattis.com/problems/velkomin)                                              |
+| Viðsnúningur                                      | 1.2        | Easy     | https://open.kattis.com/problems/vidsnuningur              | [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)                                       |
+| Weak Vertices                                     | 1.5        | Easy     | https://open.kattis.com/problems/weakvertices              | [Weak Vertices](https://open.kattis.com/problems/weakvertices)                                      |
+| Which is Greater?                                 | 1.3        | Easy     | https://open.kattis.com/problems/whichisgreater            | [Which is Greater?](https://open.kattis.com/problems/whichisgreater)                                |
+| Stand on Zanzibar                                 | 1.5        | Easy     | https://open.kattis.com/problems/zanzibar                  | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)                                      |
