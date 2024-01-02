@@ -1,9 +1,10 @@
 # Kattis ![alt text](https://open.kattis.com/images/site-logo "Kattis")
 
-Questions solved = 208
+### Coding for fun, inclusive of CS2040S Data Structures & Algorithms
+### Total Solved = 208
 
 Table of Contents
-___
+======
 | Name                                                                                                | Difficulty | Category |
 |-----------------------------------------------------------------------------------------------------|------------|----------|
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble)                                    | 1.3        | Easy     |
