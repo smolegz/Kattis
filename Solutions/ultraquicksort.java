@@ -85,5 +85,6 @@ public class ultraquicksort {
         for (int i=0;i<n;i++) arr[i] = sc.nextInt();
         mergeSort(arr,n);
         System.out.println(swaps);
+        
     }
 }
