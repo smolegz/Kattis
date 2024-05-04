@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class babelfish {
+public class acm2 {
     public static class FastScanner {
         BufferedReader br = new BufferedReader(
                 new InputStreamReader(System.in));
@@ -35,23 +35,32 @@ public class babelfish {
 
     public static void main(String[] args) throws Exception {
         FastScanner sc = new FastScanner();
-        HashMap<String, String> map = new HashMap<>();
-        while (true) {
-            String[] arr = sc.br.readLine().split(" ");
-            if (arr[0].equals("")) {
-                break;
-            }
-            map.put(arr[1],arr[0]);
-        }
-        while (true) {
-            String s = sc.br.readLine();
-            if (s.isEmpty()) break;
-            if (map.containsKey(s)) {
-                System.out.println(map.get(s));
-            } else {
-                System.out.println("eh");
-            }
+        int n = sc.nextInt();
+        int i = sc.nextInt();
+        ArrayList<Integer> arr = new ArrayList<>();
+        while (n-- > 0) {
+            arr.add(sc.nextInt());
         }
 
+        int k = arr.remove(i);
+        arr.sort(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o1-o2;
+            }
+        });
+        arr.add(0,k);
+        int ac = 0;
+        int sum = 0;
+        int r = 0;
+        for (int j=0;j<arr.size();j++) {
+            sum += arr.get(j);
+            if (sum > 300) {
+                break;
+            }
+            ac++;
+            r += sum;
+        }
+        System.out.println(ac + " " + r);
     }
 }
